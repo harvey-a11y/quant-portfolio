@@ -16,3 +16,7 @@
 
 
 
+## Example Output
+
+![AAPL Call Option — Price vs Strike](../../assets/04_APPL_call_option_price_vs_strike_price.png)
+
