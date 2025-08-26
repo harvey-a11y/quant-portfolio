@@ -8,7 +8,7 @@
 
 \*\*Run\*\*
 
-\- Open `notebook.ipynb`
+\- Open `01_georisk_regime.ipynb`
 
 
 
@@ -20,3 +20,4 @@
 
 
 ![Backtest](../../assets/01_strategy_performance.png)
+
