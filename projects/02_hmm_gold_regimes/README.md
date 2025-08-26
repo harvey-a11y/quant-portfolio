@@ -6,3 +6,7 @@
 
 
 
+## Strategy Performance
+
+![Regime vs Buy & Hold](../../assets/02_regime_vs_buy_and_hold.png)
+
