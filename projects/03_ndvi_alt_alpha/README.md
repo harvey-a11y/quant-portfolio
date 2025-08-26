@@ -6,3 +6,7 @@
 
 
 
+
+## NDVI Features by State
+
+![NDVI by State](../../assets/03_NDVI_by_state.png)
