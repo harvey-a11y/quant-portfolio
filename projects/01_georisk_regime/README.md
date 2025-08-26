@@ -14,7 +14,7 @@
 
 \*\*Colab\*\*
 
-\[!\[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/quant-portfolio/blob/main/projects/01\_georisk\_regime/notebook.ipynb)
+\[!\[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/quant-portfolio/blob/main/projects/01\_georisk\_regime/01_georisk_regime.ipynb)
 
 
 
