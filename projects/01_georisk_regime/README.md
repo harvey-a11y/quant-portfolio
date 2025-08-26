@@ -18,3 +18,5 @@
 
 
 
+
+![Backtest](../../assets/01_strategy_performance.png)
